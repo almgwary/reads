@@ -2,6 +2,7 @@
 
 
 # NodeJs
+  * [nodejs-async-in-practice](http://www.sebastianseilund.com/nodejs-async-in-practice)
   * [node-js-async-tutorial](http://justinklemm.com/node-js-async-tutorial)
   
 # Angular 2
