@@ -14,6 +14,7 @@
   
 # Angular 2
   * [ A-scalable-angular2-architecture ](http://blog.brecht.io/A-scalable-angular2-architecture)
+  * [ Using_Observables ](https://angular-2-training-book.rangle.io/handout/observables/using_observables.html)
   
 # API
   * [ 21-best-practices-designing-launching-restful-api ](https://www.snyxius.com/blog/21-best-practices-designing-launching-restful-api)
