@@ -18,3 +18,6 @@
   
 # API
   * [ 21-best-practices-designing-launching-restful-api ](https://www.snyxius.com/blog/21-best-practices-designing-launching-restful-api)
+
+# Crawlling
+  * [scrape-amazon](https://blog.hartleybrody.com/scrape-amazon/)
