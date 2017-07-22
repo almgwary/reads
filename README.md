@@ -23,3 +23,6 @@
 
 # Crawlling
   * [scrape-amazon](https://blog.hartleybrody.com/scrape-amazon/)
+
+# Mongo
+  * [Sharding And Replication on MongoDB](https://dba.stackexchange.com/a/53705)
