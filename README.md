@@ -26,3 +26,6 @@
 
 # Mongo
   * [Sharding And Replication on MongoDB](https://dba.stackexchange.com/a/53705)
+
+# UI / UX
+  * [Beginning Graphic Design: Fundamentals](https://www.youtube.com/watch?v=YqQx75OPRa0)
