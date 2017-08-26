@@ -30,3 +30,6 @@
 
 # UI / UX
   * [Beginning Graphic Design: Fundamentals](https://www.youtube.com/watch?v=YqQx75OPRa0)
+
+# other
+  * [reverse-engineering-one-line-of-javascript](https://www.alexkras.com/reverse-engineering-one-line-of-javascript/)
