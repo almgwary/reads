@@ -33,3 +33,4 @@
 
 # other
   * [reverse-engineering-one-line-of-javascript](https://www.alexkras.com/reverse-engineering-one-line-of-javascript/)
+  * [how-we-scale-mongodb](https://www.compose.com/articles/how-we-scale-mongodb/)
