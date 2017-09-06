@@ -34,3 +34,4 @@
 # other
   * [reverse-engineering-one-line-of-javascript](https://www.alexkras.com/reverse-engineering-one-line-of-javascript/)
   * [how-we-scale-mongodb](https://www.compose.com/articles/how-we-scale-mongodb/)
+  * [why-learn-functional-programming-in-javascript](https://medium.com/javascript-scene/why-learn-functional-programming-in-javascript-composing-software-ea13afc7a257)
