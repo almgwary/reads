@@ -6,7 +6,8 @@
   * [Node.js vs Golang: Battle of the Next-Gen Languages](http://www.hostingadvice.com/blog/nodejs-vs-golang/)
   * [golang-response-snippets](http://www.alexedwards.net/blog/golang-response-snippets)
   
-  
+# JS
+   * [javascript  self-executing-anonymous-functions](http://markdalgleish.com/2011/03/self-executing-anonymous-functions/)
   
 # NodeJs
   * [nodejs-async-in-practice](http://www.sebastianseilund.com/nodejs-async-in-practice)
