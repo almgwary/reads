@@ -40,3 +40,7 @@
   * [why-learn-functional-programming-in-javascript](https://medium.com/javascript-scene/why-learn-functional-programming-in-javascript-composing-software-ea13afc7a257)
   * [Getting Started with CSS Shapes
 Wrapping content around custom paths](https://www.html5rocks.com/en/tutorials/shapes/getting-started/)
+
+   * [Enterprise Programming Tricks For Clean Code](https://www.youtube.com/watch?v=dC9vdQkU-xI)
+
+   
