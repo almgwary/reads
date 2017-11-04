@@ -22,6 +22,7 @@
   * [ difference-between-component-and-directive](https://stackoverflow.com/questions/34613065/what-is-the-difference-between-component-and-directive)
   * [ Named-router-outlet-popup ](https://www.concretepage.com/angular-2/angular-2-4-named-router-outlet-popup-example)
   * [ Understanding Zones and Change Detection in Angular 2 ](https://www.concretepage.com/angular-2/angular-2-4-named-router-outlet-popup-example)
+  * [ Angular-universal: server-side-rendering ](https://medium.com/burak-tasci/angular-4-with-server-side-rendering-aka-angular-universal-f6c228ded8b0)
   
 # API
   * [ 21-best-practices-designing-launching-restful-api ](https://www.joshmorony.com/understanding-zones-and-change-detection-in-ionic-2-angular-2/)
