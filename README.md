@@ -13,6 +13,7 @@
   * [nodejs-async-in-practice](http://www.sebastianseilund.com/nodejs-async-in-practice)
   * [node-js-async-tutorial](http://justinklemm.com/node-js-async-tutorial)
   * [using-node-mysql-javascript-client](https://www.sitepoint.com/using-node-mysql-javascript-client)
+  * [Node-Require-and-Exports](http://openmymind.net/2012/2/3/Node-Require-and-Exports/)
   
 # Angular x
   * [ A-scalable-angular2-architecture ](http://blog.brecht.io/A-scalable-angular2-architecture)
