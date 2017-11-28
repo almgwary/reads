@@ -19,6 +19,7 @@
   * [ A-scalable-angular2-architecture ](http://blog.brecht.io/A-scalable-angular2-architecture)
   * [ Using_Observables ](https://angular-2-training-book.rangle.io/handout/observables/using_observables.html)
   * [ Angular 2 forms ](https://www.youtube.com/watch?v=ihYc9y7dQA0)
+  * [ Custom-form-controls-in-angular-2 ](https://blog.thoughtram.io/angular/2016/07/27/custom-form-controls-in-angular-2.html)
   * [ Ionic2 MapBox ](http://gowriter.blogspot.com.eg/2017/03/integrating-mapbox-gl-js-map-into-ionic.html)
   * [ difference-between-component-and-directive](https://stackoverflow.com/questions/34613065/what-is-the-difference-between-component-and-directive)
   * [ Named-router-outlet-popup ](https://www.concretepage.com/angular-2/angular-2-4-named-router-outlet-popup-example)
