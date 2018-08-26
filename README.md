@@ -46,5 +46,6 @@
 Wrapping content around custom paths](https://www.html5rocks.com/en/tutorials/shapes/getting-started/)
 
    * [Enterprise Programming Tricks For Clean Code](https://www.youtube.com/watch?v=dC9vdQkU-xI)
+   * [The Open Graph protocol](http://ogp.me);
 
    
