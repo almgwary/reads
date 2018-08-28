@@ -26,6 +26,7 @@
   * [ Understanding Zones and Change Detection in Angular 2 ](https://www.concretepage.com/angular-2/angular-2-4-named-router-outlet-popup-example)
   * [ Angular-universal: server-side-rendering ](https://medium.com/burak-tasci/angular-4-with-server-side-rendering-aka-angular-universal-f6c228ded8b0)
   * [Angular Universal For The Rest Of Us](https://medium.com/google-developer-experts/angular-universal-for-the-rest-of-us-922ca8bac84)
+  * [Compile-time vs. Runtime configuration of your Angular App ](https://juristr.com/blog/2018/01/ng-app-runtime-config/)
   
 # API
   * [ 21-best-practices-designing-launching-restful-api ](https://www.joshmorony.com/understanding-zones-and-change-detection-in-ionic-2-angular-2/)
