@@ -50,6 +50,7 @@ Wrapping content around custom paths](https://www.html5rocks.com/en/tutorials/sh
    * [Enterprise Programming Tricks For Clean Code](https://www.youtube.com/watch?v=dC9vdQkU-xI)
    * [The Open Graph protocol](http://ogp.me)
    * [Social Meta Tags for Twitter, Google+, Facebook](https://moz.com/blog/meta-data-templates-123)
+   * [npm semantic-versioning](https://docs.npmjs.com/getting-started/semantic-versioning)
    
 
    
