@@ -51,6 +51,7 @@ Wrapping content around custom paths](https://www.html5rocks.com/en/tutorials/sh
    * [The Open Graph protocol](http://ogp.me)
    * [Social Meta Tags for Twitter, Google+, Facebook](https://moz.com/blog/meta-data-templates-123)
    * [npm semantic-versioning](https://docs.npmjs.com/getting-started/semantic-versioning)
+   * [Contributing to Angular](https://github.com/angular/angular/blob/master/CONTRIBUTING.md)
    
 
    
